@@ -11,6 +11,8 @@ first  = f""" This is a multi line
 Comment can't "How are you" {name}
 'How are you'
 """
+name = 'Abdullah Khalid \' CS \' Student'
+print(name)
 
 print(first)
 

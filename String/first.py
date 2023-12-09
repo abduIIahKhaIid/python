@@ -20,8 +20,4 @@ print("name "+ \
       " How are you "\
         "Nothing can do it again")
 
-        
-
-
-
-
+       
